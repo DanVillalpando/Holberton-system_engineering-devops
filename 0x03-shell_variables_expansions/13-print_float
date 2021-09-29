@@ -1,2 +1,3 @@
 #!/bin/bash
-echo ($NUM,2,',','.');
+echo ($NUM,2,',','.')
+
