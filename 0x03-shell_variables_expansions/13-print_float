@@ -1,4 +1,4 @@
 #!/bin/bash
-echo ($NUM,2,',','.')\n
+echo ($NUM,2,',','.');
 
 
