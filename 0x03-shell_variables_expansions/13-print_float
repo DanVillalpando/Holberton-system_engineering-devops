@@ -1,4 +1,2 @@
 #!/bin/bash
-echo $NUM,2,',','.'
-
-
+echo scale($NUM) | bc -l
