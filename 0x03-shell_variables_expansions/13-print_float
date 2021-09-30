@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NUM="$NUM" | bc
+echo $NUM | bc > $NUM
