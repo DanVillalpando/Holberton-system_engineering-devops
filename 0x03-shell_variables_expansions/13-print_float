@@ -1,2 +1,2 @@
 #!/bin/bash
-echo scale($NUM) | bc -l
+echo NUM="$NUM" | bc -l
