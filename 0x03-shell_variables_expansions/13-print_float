@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NUM="$NUM" | bc -l
+echo NUM="$NUM" | bc
