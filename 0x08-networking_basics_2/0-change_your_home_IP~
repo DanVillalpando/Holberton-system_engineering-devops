@@ -1,0 +1,4 @@
+cp /etc/hosts ~/hosts.new
+sed -i s/127.0.0.2/g ~/hosts.new
+echo “facebook.com” > /etc/hosts
+cp -f ~/hosts.new /etc/hosts
